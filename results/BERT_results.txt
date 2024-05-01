@@ -1,0 +1,9 @@
+For test set:
+INFO : Prediction file format is correct
+INFO : macro-F1=0.67916 micro-F1=0.69482        accuracy=0.69482
+
+For dev set:
+Accuracy: 0.7068
+Precision: 0.882396449704142
+Recall: 0.4772
+F1 Score: 0.6194184839044652
