@@ -1,1 +1,3 @@
 # MGTDetection-Eval
+
+In response to the challenges posed by the rapid increase of machine-generated text, this project examines and evaluates state-of-the-art text detection models. Using a comprehensive dataset from the "M4: Multi-generator, Multi-domain, and Multi-lingual Black-Box Machine-Generated Text Detection" competition, we assess various detection models including classical, zero-shot, and fine-tuning approaches across multiple metrics. This study aims to guide future research by identifying the most effective detection strategies and their practical implications in combating machine-generated misinformation.

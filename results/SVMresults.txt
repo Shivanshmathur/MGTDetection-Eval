@@ -1,0 +1,8 @@
+                           precision    recall  f1-score   support
+
+            Human Text       0.60      0.90      0.72      2500
+Machine-Generated Text       0.80      0.39      0.53      2500
+
+              accuracy                           0.65      5000
+             macro avg       0.70      0.65      0.62      5000
+          weighted avg       0.70      0.65      0.62      5000

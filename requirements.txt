@@ -4,3 +4,6 @@ pandas
 matplotlib
 scikit-learn
 chardet
+gdown
+datasets
+seaborn
